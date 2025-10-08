@@ -6,4 +6,5 @@ scripts :
 -https://github.com/MoKharbo/ProgPMO2B/blob/main/Assets/Scripts/Brute.cs
 
 -https://github.com/MoKharbo/ProgPMO2B/blob/main/Assets/Scripts/EnemyParent.cs
+
 Ik heb een enemy die loopt en je kan hem schieten en dood maken en de elf wordt invisible voor 0.5 seconde elke 3 seconde
