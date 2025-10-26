@@ -26,6 +26,8 @@ https://github.com/MoKharbo/ProgPMO2B/blob/main/Assets/Scripts/opdr2.1/Pickup.cs
 
 https://github.com/MoKharbo/ProgPMO2B/blob/main/Assets/Scripts/opdr2.1/Playermovement.cs
 
+https://github.com/MoKharbo/ProgPMO2B/blob/main/Assets/Scripts/opdr2.1/Scoreboard.cs
+
 Ik heb een player gemaakt die beweegt met WASD en je kan een coin oppakken voor 50 score
 
 opdracht 5:
