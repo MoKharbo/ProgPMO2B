@@ -1,4 +1,3 @@
-# ProgPMO2B Unity Opdrachten
 
 ## Opdracht 1.1  
 ![opdracht1 1](https://github.com/user-attachments/assets/8e289f77-296a-4290-bcfe-b3d2ac44a676)  
@@ -47,8 +46,3 @@ Elke coin geeft **50 score** op het scoreboard.
 
 Een enemy loopt rond en kan worden neergeschoten en gedood.  
 De **Elf** wordt elke 3 seconden **0.5 seconde onzichtbaar**.
-
----
-
-✅ **Gemaakt door:** MoKharbo  
-📘 **Project:** ProgPMO2B Unity opdrachten
