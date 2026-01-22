@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class Enemy1 : MonoBehaviour
 {
     [SerializeField] private float speed = 5f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
