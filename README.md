@@ -109,29 +109,5 @@ ik heb overerfing gebruikt alles overerft van de EnemyParent class
 
 ## Opdracht 7
 
-public bool IsPlayerReadyToAttack(Player player)
-{
- if (player == null) return false;
- if (!player.IsAlive) return false;
- if (player.AttackCooldown >0) return false;
+<img width="796" height="365" alt="image" src="https://github.com/user-attachments/assets/a14a3f92-10b7-40b9-8396-876f887b881f" />
 
- if (player.Target == null) return false;
- if (!player.Target.IsAlive) return false;
-
-float distance = Vector3.Distance(player.transform.position, player.Target.transform.position)
-if (distance >= 5f) return false;
-
-if (player.IsStunned) return false;
-if (player.IsSlowed) return false;
-
-bool hasManaAndWeapon
-if (player.Mana >= 20 && player.WeaponEquipped)
-        hasManaAndWeapon = true;
-
-bool hasHealthAndBuff
-if(player.Health > 30 && player.HasBuff("Strength"))
-    hasHealthAndBuff = true;
-
-if(!hasManaAndWeapon && !hasHealthAndBuff) return false;
-    return True;
-}
