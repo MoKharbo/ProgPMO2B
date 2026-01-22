@@ -70,36 +70,35 @@ ik heb overerfing gebruikt alles overerft van de EnemyParent class
 ## Opdracht 1
 ![m6opdracht1](https://github.com/user-attachments/assets/c2bf3991-587a-41c9-9255-6af5da4298ad)
 **Scripts:**
-- Assets/Scripts/m6opdr1/opdr1/InventoryItem.cs
-- Assets/Scripts/m6opdr1/opdr1/InventorySystem.cs
+- https://github.com/MoKharbo/ProgPMO2B/tree/main/Assets/Scripts/m6opdr1/opdr1
 
 ---
 
 ## Opdracht 3
 ![m6opdracht2](https://github.com/user-attachments/assets/3e7bf8c4-d4c2-4a66-8337-0287c8ce9de9)
 **Scripts:**
-- Assets/Scripts/m6opdr1/opdr3
+- https://github.com/MoKharbo/ProgPMO2B/tree/main/Assets/Scripts/m6opdr1/opdr3
 
 ---
 
 ## Opdracht 4
 ![m6opdracht4](https://github.com/user-attachments/assets/a18bc327-72e5-4cb0-91e9-4305d256dc4d)
 **Scripts:**
-- Assets/Scripts/m6opdr1/opdr4
+- https://github.com/MoKharbo/ProgPMO2B/tree/main/Assets/Scripts/m6opdr1/opdr4
 
 ---
 
 ## Opdracht 5
 ![m6opdracht5](https://github.com/user-attachments/assets/f44e4bb0-ad63-466c-994e-0f613f5afc92)
 **Scripts:**
-- Assets/Scripts/m6opdr1/opdr5
+- https://github.com/MoKharbo/ProgPMO2B/tree/main/Assets/Scripts/m6opdr1/opdr5
 
 ---
 
 ## Opdracht 6
 ![m6opdracht6](https://github.com/user-attachments/assets/271dbdf2-df56-4358-838c-c9ff81d5fd54)
 **Scripts:**
-- Assets/Scripts/m6opdr1/opdr6
+- https://github.com/MoKharbo/ProgPMO2B/tree/main/Assets/Scripts/m6opdr1/opdr6
 
 ---
 
@@ -129,6 +128,5 @@ if(player.Health > 30 && player.HasBuff("Strength"))
     hasHealthAndBuff = true;
 
 if(!hasManaAndWeapon && !hasHealthAndBuff) return false;
-
     return True;
 }
