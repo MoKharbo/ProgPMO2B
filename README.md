@@ -73,6 +73,8 @@ ik heb overerfing gebruikt alles overerft van de EnemyParent class
 **Scripts:**
 - https://github.com/MoKharbo/ProgPMO2B/tree/main/Assets/Scripts/m6opdr1/opdr1
 
+Ik heb een inventory system gemaakt met de keys: G, H, J kan je items oppakken en met de keys: T, Y, U kan je items droppen.
+
 ---
 
 ## Opdracht 3
@@ -80,6 +82,8 @@ ik heb overerfing gebruikt alles overerft van de EnemyParent class
 
 **Scripts:**
 - https://github.com/MoKharbo/ProgPMO2B/tree/main/Assets/Scripts/m6opdr1/opdr3
+
+Ik heb een inventory system gemaakt met behulp van scriptable objects
 
 ---
 
@@ -89,6 +93,9 @@ ik heb overerfing gebruikt alles overerft van de EnemyParent class
 **Scripts:**
 - https://github.com/MoKharbo/ProgPMO2B/tree/main/Assets/Scripts/m6opdr1/opdr4
 
+Ik heb een score system gemaakt met behulp van delegates.
+Als de player over een coin loopt komt er een score bij de UI
+
 ---
 
 ## Opdracht 5
@@ -96,6 +103,10 @@ ik heb overerfing gebruikt alles overerft van de EnemyParent class
 
 **Scripts:**
 - https://github.com/MoKharbo/ProgPMO2B/tree/main/Assets/Scripts/m6opdr1/opdr5
+
+Ik heb een pick up system gemaakt je kan verschillende items op pakken met de player, onder andere:
+Health, Coins en een trap
+dit heb ik kunnen maken met behulp van abstractie
 
 ---
 
@@ -105,9 +116,13 @@ ik heb overerfing gebruikt alles overerft van de EnemyParent class
 **Scripts:**
 - https://github.com/MoKharbo/ProgPMO2B/tree/main/Assets/Scripts/m6opdr1/opdr6
 
+Ik heb een simpele battle manager gemaakt waar in enemies je kunnen aan vallen en je kunt de enemies aan vallen dit heb ik kunnen maken met gebruik van Polymophism
+
 ---
 
 ## Opdracht 7
 
 <img width="796" height="365" alt="image" src="https://github.com/user-attachments/assets/a14a3f92-10b7-40b9-8396-876f887b881f" />
+
+Dit script laat ik zien hoe je early returns kunt gebruiken om een ingewikkelde if statement logica leesbaar te houden
 
